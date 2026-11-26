@@ -1,0 +1,13 @@
+/target
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.tiff
+*.tga
+*.qoi
+*.gif
+*.old
+FineShot.exe
+config.ini
